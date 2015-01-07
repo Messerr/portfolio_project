@@ -1,0 +1,27 @@
+body{
+	margin:0;
+	font-family: 'Lato', sans-serif;
+	
+}
+
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+.topnav{
+	border-bottom: solid;
+	border-color: black;
+	border-width: 2px;
+	width: 100%;
+	position: fixed;
+	text-align: right;
+
+
+}
+
+li {
+	display: inline-block;
+	padding-right: 15px;
+	font-weight: bold;
+}
